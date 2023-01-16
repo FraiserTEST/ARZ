@@ -5,3 +5,6 @@ https://gamedb.arizona-v.com/img/default_banner_5.b1c54869.gif //windows
 https://gamedb.arizona-v.com/img/default_banner_4.51055de5.gif //nlo
 https://gamedb.arizona-v.com/img/default_banner_1.6965f942.gif //minecraft
 https://gamedb.arizona-v.com/img/rare_banner.1b722867.gif //mason
+//icons
+https://cdn.discordapp.com/role-icons/795688135739572224/c1d095583e27a4644191810747a78aa4.webp?size=20&quality=lossless
+https://cdn.discordapp.com/role-icons/751442988487409697/ef8a181705023b7d61052e4a90856600.webp?size=20&quality=lossless
